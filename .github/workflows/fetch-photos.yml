@@ -1,0 +1,37 @@
+name: Fetch city photos
+on:
+  push:
+    paths: ['photo-requests/*.tsv']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download photos listed in each request file
+        run: |
+          set -e
+          for req in photo-requests/*.tsv; do
+            name=$(basename "$req" .tsv)
+            dir="photos/$name"
+            [ -f "$dir/.done" ] && continue
+            mkdir -p "$dir"
+            i=0
+            while IFS=$'\t' read -r url id desc; do
+              [ -z "$url" ] && continue
+              i=$((i+1))
+              f=$(printf "%s/%02d-%s.jpg" "$dir" "$i" "$id")
+              curl -sSfL --retry 3 -o "$f" "$url" || echo "failed: $url"
+              printf "%s\t%s\n" "$(basename "$f")" "$desc" >> "$dir/manifest.tsv"
+            done < "$req"
+            touch "$dir/.done"
+          done
+      - name: Commit photos
+        run: |
+          git config user.name "photo-bot"
+          git config user.email "photo-bot@users.noreply.github.com"
+          git add photos
+          git diff --cached --quiet || git commit -m "Fetch photos"
+          git push
