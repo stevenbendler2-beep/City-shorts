@@ -26,9 +26,18 @@ else:
     d.ellipse((cx-R,cy-R,cx+R,cy+R),fill=(40,44,70)); f=font(150); d.text((cx,cy),"S",font=f,fill="white",anchor="mm")
 d.text((cx,cy+R+90),a.handle,font=font(64),fill="white",anchor="mm")
 d.text((cx,cy+R+190),"New city every day",font=font(46,False),fill=(220,220,230),anchor="mm")
-# red subscribe button
+# red subscribe button + pointer to YouTube's real Subscribe button (bottom-left, next to the channel name)
 bw,bh=560,130; bx,by=cx-bw//2,cy+R+290
 d.rounded_rectangle((bx,by,bx+bw,by+bh),radius=65,fill=(230,33,23))
-d.text((cx,by+bh//2),"SUBSCRIBE 🔔".replace(" 🔔",""),font=font(60),fill="white",anchor="mm")
-d.text((cx,by+bh+110),"for more cities",font=font(56),fill=(232,190,98),anchor="mm")
+d.text((cx,by+bh//2),"SUBSCRIBE",font=font(60),fill="white",anchor="mm")
+d.text((cx,by+bh+95),"for more cities",font=font(56),fill=(232,190,98),anchor="mm")
+ty=by+bh+200
+d.text((cx,ty),"Tap Subscribe below",font=font(50),fill="white",anchor="mm")
+# arrow from under the text down toward the channel row (approx x=330, y=1640 on a 1080x1920 Short)
+x0,y0,x1,y1=cx-40,ty+45,360,1600
+d.line((x0,y0,x1,y1),fill=(232,190,98),width=12)
+import math
+ang=math.atan2(y1-y0,x1-x0); L=48
+for s_ in (-0.5,0.5):
+    d.line((x1,y1,x1-L*math.cos(ang+s_),y1-L*math.sin(ang+s_)),fill=(232,190,98),width=12)
 bg.save(a.out); print("wrote",a.out)
