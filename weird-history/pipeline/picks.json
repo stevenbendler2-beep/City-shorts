@@ -1,0 +1,547 @@
+{
+ "tunguska": {
+  "0": [
+   "04-leonid-kulik-expedition.jpg",
+   "01-tunguska-event-fallen-trees.jpg"
+  ],
+  "1": [
+   "05-leonid-kulik-expedition.jpg",
+   "04-leonid-kulik-expedition.jpg"
+  ],
+  "2": [
+   "10-podkamennaya-tunguska.jpg"
+  ],
+  "3": [
+   "10-podkamennaya-tunguska.jpg",
+   "04-leonid-kulik-expedition.jpg"
+  ]
+ },
+ "halifax": {
+  "0": [
+   "02-halifax-explosion-1917.jpg",
+   "01-halifax-explosion-1917.jpg",
+   "03-halifax-explosion-1917.jpg"
+  ],
+  "1": [
+   "04-halifax-explosion-devastation-richmond.jpg"
+  ],
+  "2": [
+   "03-halifax-explosion-1917.jpg",
+   "02-halifax-explosion-1917.jpg"
+  ],
+  "3": [
+   "06-ss-mont-blanc.jpg"
+  ]
+ },
+ "lake-nyos": {
+  "0": [
+   "10-cameroon-village.jpg",
+   "01-lake-nyos.jpg"
+  ],
+  "1": [
+   "01-lake-nyos.jpg"
+  ],
+  "2": [
+   "10-cameroon-village.jpg",
+   "04-lake-nyos-degassing.jpg"
+  ],
+  "3": [
+   "08-cameroon-village.jpg",
+   "09-cameroon-village.jpg"
+  ]
+ },
+ "winchester-house": {
+  "0": [
+   "02-winchester-mystery-house.jpg",
+   "11-winchester-mystery-house-door.jpg",
+   "01-winchester-mystery-house.jpg"
+  ],
+  "1": [
+   "05-winchester-mystery-house-stairs.jpg",
+   "04-winchester-mystery-house-stairs.jpg"
+  ],
+  "2": [
+   "07-sarah-winchester.jpg"
+  ],
+  "3": [
+   "10-winchester-mystery-house-door.jpg",
+   "09-winchester-mystery-house-door.jpg"
+  ]
+ },
+ "mary-celeste": {
+  "0": [
+   "01-mary-celeste.jpg",
+   "02-mary-celeste.jpg"
+  ],
+  "1": [
+   "11-sailing-ship-atlantic-storm.jpg",
+   "01-mary-celeste.jpg"
+  ],
+  "2": [
+   "11-sailing-ship-atlantic-storm.jpg"
+  ],
+  "3": [
+   "11-sailing-ship-atlantic-storm.jpg",
+   "10-sailing-ship-atlantic-storm.jpg"
+  ]
+ },
+ "phineas-gage": {
+  "0": [
+   "01-phineas-gage.jpg",
+   "08-phineas-gage-tamping-iron.jpg"
+  ],
+  "1": [
+   "03-phineas-gage.jpg",
+   "06-phineas-gage-skull.jpg"
+  ],
+  "2": [
+   "09-phineas-gage-tamping-iron.jpg",
+   "07-phineas-gage-tamping-iron.jpg"
+  ],
+  "3": [
+   "10-cavendish-vermont.jpg"
+  ]
+ },
+ "great-stink": {
+  "0": [
+   "02-great-stink-1858.jpg",
+   "01-great-stink-1858.jpg"
+  ],
+  "1": [
+   "04-palace-of-westminster-thames.jpg",
+   "05-palace-of-westminster-thames.jpg",
+   "03-palace-of-westminster-thames.jpg"
+  ],
+  "2": [
+   "06-joseph-bazalgette.jpg"
+  ],
+  "3": [
+   "11-crossness-pumping-station.jpg",
+   "09-crossness-pumping-station.jpg"
+  ],
+  "4": [
+   "14-victoria-embankment-construction.jpg"
+  ]
+ },
+ "cardiff-giant": {
+  "0": [
+   "02-cardiff-giant.jpg",
+   "03-cardiff-giant.jpg",
+   "01-cardiff-giant.jpg"
+  ],
+  "1": [
+   "01-cardiff-giant.jpg",
+   "02-cardiff-giant.jpg"
+  ],
+  "2": [
+   "05-p-t-barnum.jpg",
+   "06-p-t-barnum.jpg"
+  ],
+  "3": [
+   "09-farmers-museum-cooperstown.jpg",
+   "07-farmers-museum-cooperstown.jpg"
+  ]
+ },
+ "gimli-glider": {
+  "0": [
+   "02-gimli-glider.jpg",
+   "03-gimli-glider.jpg"
+  ],
+  "1": [
+   "06-air-canada-boeing-767.jpg",
+   "01-gimli-glider.jpg"
+  ],
+  "2": [
+   "07-gimli-manitoba.jpg",
+   "09-gimli-manitoba.jpg"
+  ],
+  "3": [
+   "10-boeing-767-cockpit.jpg",
+   "11-boeing-767-cockpit.jpg"
+  ]
+ },
+ "roy-sullivan": {
+  "0": [
+   "02-shenandoah-national-park.jpg",
+   "08-skyline-drive-shenandoah.jpg"
+  ],
+  "1": [
+   "05-lightning-strike.jpg",
+   "06-lightning-strike.jpg",
+   "04-lightning-strike.jpg"
+  ],
+  "2": [
+   "09-skyline-drive-shenandoah.jpg",
+   "07-skyline-drive-shenandoah.jpg"
+  ],
+  "3": [
+   "12-park-ranger-hat.jpg"
+  ]
+ },
+ "headless-chicken": {
+  "0": [
+   "x02-rooster-portrait.jpg",
+   "07-chicken-farm.jpg"
+  ],
+  "1": [
+   "06-fruita-colorado.jpg",
+   "04-fruita-colorado.jpg"
+  ],
+  "2": [
+   "x01-rooster-portrait.jpg",
+   "x03-rooster-portrait.jpg"
+  ],
+  "3": [
+   "x04-chicken-1940s-farm.jpg",
+   "x06-chicken-1940s-farm.jpg"
+  ]
+ },
+ "beer-flood": {
+  "0": [
+   "01-horse-shoe-brewery-london.jpg"
+  ],
+  "1": [
+   "03-st-giles-london-rookery.jpg"
+  ],
+  "2": [
+   "04-st-giles-london-rookery.jpg",
+   "03-st-giles-london-rookery.jpg"
+  ],
+  "3": [
+   "07-brewery-vat.jpg",
+   "08-brewery-vat.jpg"
+  ]
+ },
+ "cher-ami": {
+  "0": [
+   "08-carrier-pigeon-world-war-i.jpg",
+   "07-carrier-pigeon-world-war-i.jpg"
+  ],
+  "1": [
+   "04-lost-battalion-1918.jpg",
+   "11-argonne-forest-1918.jpg"
+  ],
+  "2": [
+   "08-carrier-pigeon-world-war-i.jpg",
+   "09-carrier-pigeon-world-war-i.jpg"
+  ],
+  "3": [
+   "11-argonne-forest-1918.jpg",
+   "12-argonne-forest-1918.jpg"
+  ]
+ },
+ "miss-unsinkable": {
+  "0": [
+   "01-violet-jessop.jpg"
+  ],
+  "1": [
+   "04-rms-olympic.jpg",
+   "05-rms-olympic.jpg",
+   "06-rms-olympic.jpg"
+  ],
+  "2": [
+   "07-rms-titanic.jpg",
+   "09-rms-titanic.jpg",
+   "08-rms-titanic.jpg"
+  ],
+  "3": [
+   "10-hmhs-britannic.jpg",
+   "11-hmhs-britannic.jpg"
+  ]
+ },
+ "galloping-gertie": {
+  "0": [
+   "01-tacoma-narrows-bridge-collapse.jpg",
+   "06-tacoma-narrows-bridge-1940.jpg"
+  ],
+  "1": [
+   "04-tacoma-narrows-bridge-1940.jpg"
+  ],
+  "2": [
+   "03-tacoma-narrows-bridge-collapse.jpg"
+  ],
+  "3": [
+   "01-tacoma-narrows-bridge-collapse.jpg"
+  ]
+ },
+ "no-summer": {
+  "0": [
+   "01-mount-tambora.jpg",
+   "03-mount-tambora.jpg"
+  ],
+  "1": [
+   "04-year-without-a-summer.jpg",
+   "05-year-without-a-summer.jpg"
+  ],
+  "2": [
+   "12-new-england-snow-farm.jpg"
+  ],
+  "3": [
+   "11-new-england-snow-farm.jpg"
+  ],
+  "4": [
+   "10-new-england-snow-farm.jpg",
+   "11-new-england-snow-farm.jpg"
+  ]
+ },
+ "carrington-event": {
+  "0": [
+   "01-carrington-event-sunspot-drawing.jpg"
+  ],
+  "1": [
+   "02-aurora-borealis.jpg",
+   "03-aurora-borealis.jpg",
+   "04-aurora-borealis.jpg"
+  ],
+  "2": [
+   "06-telegraph-19th-century.jpg",
+   "07-telegraph-19th-century.jpg"
+  ],
+  "3": [
+   "09-solar-flare.jpg",
+   "10-solar-flare.jpg",
+   "08-solar-flare.jpg"
+  ]
+ },
+ "wow-signal": {
+  "0": [
+   "x04-radio-telescope-dish-night.jpg",
+   "09-sagittarius-constellation.jpg"
+  ],
+  "1": [
+   "x06-radio-telescope-dish-night.jpg",
+   "x04-radio-telescope-dish-night.jpg"
+  ],
+  "2": [
+   "07-sagittarius-constellation.jpg",
+   "09-sagittarius-constellation.jpg"
+  ],
+  "3": [
+   "x05-radio-telescope-dish-night.jpg",
+   "12-night-sky-stars-milky-way.jpg"
+  ]
+ },
+ "krakatoa": {
+  "0": [
+   "01-krakatoa-1883-eruption-lithograph.jpg",
+   "02-krakatoa-1883-eruption-lithograph.jpg"
+  ],
+  "1": [
+   "04-krakatoa.jpg",
+   "08-anak-krakatau.jpg"
+  ],
+  "2": [
+   "08-anak-krakatau.jpg",
+   "07-anak-krakatau.jpg"
+  ],
+  "3": [
+   "10-rodrigues-island.jpg",
+   "11-rodrigues-island.jpg"
+  ],
+  "4": [
+   "13-volcanic-sunset.jpg",
+   "14-volcanic-sunset.jpg",
+   "12-volcanic-sunset.jpg"
+  ]
+ },
+ "roanoke": {
+  "0": [
+   "01-roanoke-colony.jpg"
+  ],
+  "1": [
+   "04-croatoan-carving.jpg"
+  ],
+  "2": [
+   "05-virginia-dare.jpg"
+  ],
+  "3": [
+   "08-roanoke-island.jpg"
+  ],
+  "4": [
+   "08-roanoke-island.jpg",
+   "10-roanoke-island.jpg"
+  ]
+ },
+ "serum-run": {
+  "0": [
+   "01-1925-serum-run-to-nome.jpg",
+   "07-togo-sled-dog.jpg"
+  ],
+  "1": [
+   "06-balto-dog.jpg",
+   "04-balto-dog.jpg"
+  ],
+  "2": [
+   "07-togo-sled-dog.jpg"
+  ],
+  "3": [
+   "02-1925-serum-run-to-nome.jpg",
+   "11-balto-statue-central-park.jpg",
+   "12-balto-statue-central-park.jpg"
+  ],
+  "4": [
+   "13-nome-alaska-1925.jpg"
+  ]
+ },
+ "pig-war": {
+  "0": [
+   "01-san-juan-island-american-camp.jpg",
+   "02-san-juan-island-american-camp.jpg"
+  ],
+  "1": [
+   "03-san-juan-island-american-camp.jpg",
+   "05-english-camp-san-juan-island.jpg"
+  ],
+  "2": [
+   "08-pig.jpg",
+   "09-pig.jpg",
+   "07-pig.jpg"
+  ],
+  "3": [
+   "02-san-juan-island-american-camp.jpg",
+   "01-san-juan-island-american-camp.jpg"
+  ]
+ },
+ "moon-hoax": {
+  "0": [
+   "02-great-moon-hoax-lithograph.jpg",
+   "03-great-moon-hoax-lithograph.jpg",
+   "01-great-moon-hoax-lithograph.jpg"
+  ],
+  "1": [
+   "04-john-herschel.jpg"
+  ],
+  "2": [
+   "09-full-moon.jpg",
+   "07-full-moon.jpg"
+  ],
+  "3": [
+   "02-great-moon-hoax-lithograph.jpg"
+  ]
+ },
+ "flannan-isles": {
+  "0": [
+   "x01-scottish-lighthouse-storm.jpg",
+   "x03-scottish-lighthouse-storm.jpg"
+  ],
+  "1": [
+   "x06-lighthouse-lamp-interior.jpg"
+  ],
+  "2": [
+   "x04-outer-hebrides-sea-cliffs.jpg",
+   "01-flannan-isles.jpg"
+  ],
+  "3": [
+   "x02-scottish-lighthouse-storm.jpg",
+   "x01-scottish-lighthouse-storm.jpg"
+  ]
+ },
+ "halley-1910": {
+  "0": [
+   "01-halley-s-comet-1910.jpg",
+   "02-halley-s-comet-1910.jpg"
+  ],
+  "1": [
+   "05-halley-s-comet-1910-cartoon.jpg",
+   "04-halley-s-comet-1910-cartoon.jpg",
+   "03-halley-s-comet-1910-cartoon.jpg"
+  ],
+  "2": [
+   "04-halley-s-comet-1910-cartoon.jpg",
+   "03-halley-s-comet-1910-cartoon.jpg"
+  ],
+  "3": [
+   "06-halley-s-comet-photograph.jpg",
+   "08-halley-s-comet-photograph.jpg",
+   "01-halley-s-comet-1910.jpg"
+  ]
+ },
+ "1904-marathon": {
+  "0": [
+   "01-1904-summer-olympics-marathon.jpg",
+   "02-1904-summer-olympics-marathon.jpg",
+   "04-thomas-hicks-marathon-1904.jpg"
+  ],
+  "1": [
+   "05-thomas-hicks-marathon-1904.jpg",
+   "06-thomas-hicks-marathon-1904.jpg"
+  ],
+  "2": [
+   "09-felix-carvajal.jpg"
+  ],
+  "3": [
+   "02-1904-summer-olympics-marathon.jpg"
+  ]
+ },
+ "eiffel-con": {
+  "0": [
+   "02-eiffel-tower-1920s.jpg",
+   "12-eiffel-tower.jpg",
+   "01-eiffel-tower-1920s.jpg"
+  ],
+  "1": [
+   "05-victor-lustig.jpg"
+  ],
+  "2": [
+   "08-hotel-de-crillon-paris.jpg",
+   "07-hotel-de-crillon-paris.jpg"
+  ],
+  "3": [
+   "10-eiffel-tower.jpg",
+   "11-eiffel-tower.jpg"
+  ]
+ },
+ "emperor-norton": {
+  "0": [
+   "01-emperor-norton.jpg",
+   "02-emperor-norton.jpg"
+  ],
+  "1": [
+   "04-san-francisco-1870s.jpg"
+  ],
+  "2": [
+   "05-san-francisco-1870s.jpg"
+  ],
+  "3": [
+   "06-san-francisco-oakland-bay-bridge.jpg",
+   "07-san-francisco-oakland-bay-bridge.jpg",
+   "08-san-francisco-oakland-bay-bridge.jpg"
+  ]
+ },
+ "christmas-truce": {
+  "0": [
+   "01-christmas-truce-1914.jpg",
+   "03-christmas-truce-1914.jpg"
+  ],
+  "1": [
+   "04-british-and-german-soldiers-1914.jpg"
+  ],
+  "2": [
+   "06-british-and-german-soldiers-1914.jpg",
+   "04-british-and-german-soldiers-1914.jpg"
+  ],
+  "3": [
+   "08-christmas-tree-candles.jpg"
+  ]
+ },
+ "tulip-mania": {
+  "0": [
+   "01-semper-augustus-tulip.jpg",
+   "03-semper-augustus-tulip.jpg"
+  ],
+  "1": [
+   "05-tulip-mania.jpg",
+   "06-tulip-mania.jpg",
+   "02-semper-augustus-tulip.jpg"
+  ],
+  "2": [
+   "02-semper-augustus-tulip.jpg",
+   "04-tulip-mania.jpg"
+  ],
+  "3": [
+   "10-tulip-field-netherlands.jpg",
+   "12-tulip-field-netherlands.jpg",
+   "11-tulip-field-netherlands.jpg"
+  ]
+ }
+}
