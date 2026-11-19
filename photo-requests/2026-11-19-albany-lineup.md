@@ -16,7 +16,7 @@ Unsplash collection: https://unsplash.com/collections/9Qxmi605ztc
 | 8 | 1883: Richardson's rugged stone City Hall opened | Commons: Albany City Hall |
 | 9 | 1899: The Capitol was finally finished after 32 years | z_iMW8r6HNg — State Capitol with seasonal scenery |
 | 10 | 1900: Grand Union Station opened downtown | Commons: Albany Union Station |
-| 11 | 1954: A giant Nipper dog took a rooftop perch | Commons: Nipper RCA dog Albany |
+| 11 | 1954: A giant Nipper dog took a rooftop perch | Commons: Nipper RCA dog Albany — NO free photo found on Commons; drop this fact (11 facts remain) |
 | 12 | 1978: "The Egg" opened at Empire State Plaza | atSf0QrQJZw — Empire State Plaza at golden hour |
 | Ending | Come see it for yourself (dusk) | Commons: Albany New York skyline night (alt: YNnTXZi8YD4) |
 
