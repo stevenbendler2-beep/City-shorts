@@ -8,7 +8,7 @@ Unsplash collection: https://unsplash.com/collections/tN9_ri8XKcY
 | Title | LEXINGTON — Horse Capital of the World | 3D4glmFJqZU (black horse-farm fence, bluegrass) |
 | 1 | 1775: Hunters name it after news from Lexington, Massachusetts | Commons: McConnell Springs Lexington Kentucky |
 | 2 | 1780: Transylvania — first university west of the Alleghenies | Commons: Old Morrison Transylvania University |
-| 3 | 1811: Ashland estate becomes Henry Clay's famous home | Commons: Ashland Henry Clay Estate |
+| 3 | 1804: Henry Clay starts his Ashland estate here | Commons: Ashland Henry Clay Estate |
 | 4 | 1865: University of Kentucky is founded here | 0YaBs82mdWs (UK football stadium aerial) |
 | 5 | 1875: The Red Mile opens — harness racing's grand old track | Commons: Red Mile Lexington |
 | 6 | 1879: James E. Pepper distillery fires up its stills | Commons: James E. Pepper Distillery Lexington |
