@@ -23,3 +23,5 @@ Unsplash collection: https://unsplash.com/collections/MesIhFzn5pU
 B-roll: avj1QY8zGbg (Lake Hood seaplanes — use with hook), _xa3hq7NX0w (Seward Highway mountains, Anchorage)
 
 Unsplash lacked: Captain Cook statue, 1915 tent city / Ship Creek, Alaska Railroad depot, Fourth Avenue Theatre, airport, 1950s downtown, Anchorage Museum, Iditarod start, Performing Arts Center, Alaska Native Heritage Center, night skyline.
+
+Commons top-up (photos/2026-11-22-anchorage-commons2/): Iditarod start (fact 9), Ship Creek (fact 2).

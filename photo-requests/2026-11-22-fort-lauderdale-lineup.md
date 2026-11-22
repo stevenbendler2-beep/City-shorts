@@ -24,3 +24,5 @@ Unsplash collection: https://unsplash.com/collections/1O7RnynuSt8
 B-roll: qNa5Vp3BScE (Las Olas Blvd flags, downtown)
 
 Unsplash lacked: New River/fort, Stranahan House, 1910s city, Bonnet House, Port Everglades, Jungle Queen, Elbo Room, Birch State Park, Swimming Hall of Fame, Broward Center, Brightline, night skyline.
+
+Commons top-up (photos/2026-11-22-fort-lauderdale-commons2/): Jungle Queen (fact 6), Fort Lauderdale beach (fact 9 alt).
