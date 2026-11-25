@@ -8,8 +8,10 @@ Unsplash collection: https://unsplash.com/collections/oNKjuhlDtYY
 | Year | Caption | Photo |
 |---|---|---|
 | 1699 | French explorers spot a blood-red pole here | 9qx_jKBDZhA — riverfront walkway (alt: Commons: Mississippi River Baton Rouge bluff) |
+| 1817 | Baton Rouge officially becomes a city | Commons: Baton Rouge 1900 historic |
 | 1819 | The Army builds the Pentagon Barracks | Commons: Pentagon Barracks Baton Rouge |
 | 1847 | Work begins on a Gothic "castle" capitol | F5TumdAyWdE — Old State Capitol stained glass + Commons: Old Louisiana State Capitol |
+| 1849 | Baton Rouge becomes Louisiana's capital | Commons: Old State Capitol Baton Rouge historic |
 | 1869 | LSU moves to Baton Rouge for good | Commons: Louisiana State University Memorial Tower |
 | 1909 | A giant oil refinery fires up on the river | Commons: ExxonMobil Baton Rouge Refinery |
 | 1924 | Tiger Stadium opens — later nicknamed Death Valley | Commons: Tiger Stadium (LSU) |
